@@ -1,0 +1,165 @@
+.bg-red{
+background-color:rgb(189, 189, 184)
+}
+a{
+   color: rgb(100, 98, 98); 
+}
+.navheight{
+    height:70px;
+}
+.nav1{
+   padding-top: 40px;
+   font-size: 1px;
+  
+}
+.navfont{
+  font-size: 12px !important;
+  color: black;
+     
+}
+.globe{
+    border: 1px solid grey; 
+    border-radius: 20px; 
+    height: 35px;
+    width:80px;
+   
+    
+}
+.nav2{
+    font-weight: bold;
+  
+}
+.image{
+    padding:0px ;
+    align-content: center;
+   
+}
+.p1{
+   padding-left: 70px; 
+}
+.font{
+    font-family: 'Proxima Nova',Oxygen,sans-serif;
+    font-size: 21px;
+    line-height:1.38095238 ;
+    word-wrap: break-word;
+    -webkit-text-size-adjust:100% ;
+    text-size-adjust:10px;
+    line-height: 35px;
+   
+    color: dimgrey;
+
+}
+.learnmore{
+    
+    background: #78be20;
+    color: white !important;
+    border: 3px solid #78be20;
+    border-radius: 20px;
+    font-weight: 700;
+    justify-content: center;
+   
+    padding: 0.8em 3em  0.8em !important;
+    }
+.picture2{
+    padding-bottom:20px ;
+    padding-left: 20px;
+}
+.picture3{
+    padding-left:70px  ;
+    padding-top:30px ;
+    padding-bottom: 20px;
+}
+.leftpara{
+    padding-right: 50px;
+}
+.p3{
+    padding-left:70px  ;
+}
+.picture4{
+    
+  justify-content: right;
+}
+.ourpromise{
+ justify-content: center;   
+ border-bottom: 1px;
+ border-color: black;
+}
+footer{
+    background-color: rgb(232, 233, 235);
+    margin-top:5px;
+   border: 1px;
+    border-color: black;
+    height: 300px;
+}
+.home{
+    border-top: 2px;
+    border-color: #78be20;
+}
+.footer-left{
+   padding-left: 100px; 
+   color:rgb(133, 129, 129);
+   font-weight: 1000;
+   font-size: 16px;
+   font-family: "Proxima Nova",Oxygen,sans-serif;
+  padding-right: 100px;
+}
+.information{
+    font-weight: 700;
+    font-size: 14px;
+    color: dimgray;
+    margin-left: 18em;
+}
+.fontmove{
+    margin-left: 15em;
+}
+.icon{
+    font-size: 14px;
+    padding: 7px 7px 7px 7px;
+   background-color: rgb(184, 184, 189);
+   border-radius: 4px;
+}
+.FOOT-LINKS{
+    padding-left:250px ;
+    line-height: 0;
+}
+    /* business opportunity */
+.right-pic1{
+    padding-left: 80px;
+} 
+.right-para1{
+    padding-left: 90px;
+
+}
+.headding{
+    color: rgb(82, 78, 78);
+}
+.paragraph{
+    font-size: 23px;
+    color: rgb(68, 66, 66);
+    font-weight: 360;
+    padding-right: 110px;
+    word-spacing: 2px;
+}
+.ticimg-l{
+   padding-left: 110px;
+   padding-right:250px;
+
+}
+.ticimg-r{
+    padding-left:30px;
+    padding-right:250px;
+
+}
+.busspic2{
+   padding-left: 110px;
+}
+.busspara3{
+    padding-left: 110px;
+    padding-right: 90px;
+   }
+ .bussimg3{
+    padding-left: 70px;
+ }  
+ .ticimg2{
+    padding-left: 250px;
+ }
